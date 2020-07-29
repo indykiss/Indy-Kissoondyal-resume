@@ -15,7 +15,7 @@ Full Stack Web Development Coding Bootcamp
 
 **Princeton University, Princeton, NJ (2012 - 2016)**
 
-Bachelors in Psychology, Certificate in Cognitive Sciences Questbridge Scholar and Ambassador⋅⋅
+Bachelors in Psychology, Certificate in Cognitive Sciences Questbridge Scholar and Ambassador  
  *Competitive full scholarship for diverse, first generation college students*
 
 ## Skills 
