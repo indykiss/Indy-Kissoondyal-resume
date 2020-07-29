@@ -1,8 +1,8 @@
 # Indy Kissoondyal 
 ------------------- ----------------------------
-#### indirak@alumni.princeton.edu​       #### [indirak.com](https://indirak.com)
-#### (323) 684-4435 ​    #### [LinkedIn](https://www.linkedin.com/in/indy-kissoondyal/​)
-                          #### [Github](https://github.com/indykiss)
+ indirak@alumni.princeton.edu​        [indirak.com](https://indirak.com)
+ (323) 684-4435 ​     [LinkedIn](https://www.linkedin.com/in/indy-kissoondyal/​)
+[Github](https://github.com/indykiss)
 ------------------- ----------------------------
 
 #### As a current software engineer/ researcher and recent coding bootcamp graduate, my skills run the gamut from back-end API integrations to front-end prototyping with an inclusive, UI/UX mindset. My experience in JavaScript, coupled with 2+ years of research experience, lends itself well to anticipating and solving complex problems. Outstanding critical thinking skills and resilience honed during my undergraduate studies at Princeton complement my software programming skill set.
