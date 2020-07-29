@@ -9,19 +9,16 @@
 
 ## Education 
 
-**Flatiron School, NYC (2018 - 2019)**
-
+**Flatiron School, NYC (2018 - 2019)**  
 Full Stack Web Development Coding Bootcamp
 
-**Princeton University, Princeton, NJ (2012 - 2016)**
-
+**Princeton University, Princeton, NJ (2012 - 2016)**  
 Bachelors in Psychology, Certificate in Cognitive Sciences Questbridge Scholar and Ambassador  
  *Competitive full scholarship for diverse, first generation college students*
 
 ## Skills 
 
-**Languages & Frameworks:** JavaScript, Ruby, Rails, React/ Redux, SQL, HTML, CSS
-
+**Languages & Frameworks:** JavaScript, Ruby, Rails, React/ Redux, SQL, HTML, CSS  
 **Tools & Libraries:** Git/ Github, Bootstrap, Web Scrapers, Visual Studio Code, Capital IQ, Research
 
 ## Employment
