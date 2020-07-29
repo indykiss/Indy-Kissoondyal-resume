@@ -1,22 +1,20 @@
 # Indy Kissoondyal 
-#### indirak@alumni.princeton.edu​     
-#### (323) 684-4435 ​
-#### [indirak.com](https://indirak.com)
-#### [LinkedIn](https://www.linkedin.com/in/indy-kissoondyal/​)
-#### [Github](https://github.com/indykiss)
+------------------- ----------------------------
+#### indirak@alumni.princeton.edu​       #### [indirak.com](https://indirak.com)
+#### (323) 684-4435 ​    #### [LinkedIn](https://www.linkedin.com/in/indy-kissoondyal/​)
+                          #### [Github](https://github.com/indykiss)
+------------------- ----------------------------
+
 #### As a current software engineer/ researcher and recent coding bootcamp graduate, my skills run the gamut from back-end API integrations to front-end prototyping with an inclusive, UI/UX mindset. My experience in JavaScript, coupled with 2+ years of research experience, lends itself well to anticipating and solving complex problems. Outstanding critical thinking skills and resilience honed during my undergraduate studies at Princeton complement my software programming skill set.
 
 ## Education 
 
 **Flatiron School, NYC (2018 - 2019)**
-
 Full Stack Web Development Coding Bootcamp
 
 **Princeton University, Princeton, NJ (2012 - 2016)**
-
 Bachelors in Psychology, Certificate in Cognitive Sciences Questbridge Scholar and Ambassador
-
-*Competitive full scholarship for diverse, first generation college students*
+* *Competitive full scholarship for diverse, first generation college students*
 
 ## Skills 
 
