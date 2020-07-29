@@ -1,22 +1,27 @@
 # Indy Kissoondyal 
-### indirak@alumni.princeton.edu​     
-### (323) 684-4435 ​indirak.com 
-### [https://www.linkedin.com/in/indy-kissoondyal/​](https://www.linkedin.com/in/indy-kissoondyal/​)
-### [https://github.com/indykiss](https://github.com/indykiss)
+#### indirak@alumni.princeton.edu​     
+#### (323) 684-4435 ​
+#### [indirak.com](https://indirak.com)
+#### [LinkedIn](https://www.linkedin.com/in/indy-kissoondyal/​)
+#### [Github](https://github.com/indykiss)
 #### As a current software engineer/ researcher and recent coding bootcamp graduate, my skills run the gamut from back-end API integrations to front-end prototyping with an inclusive, UI/UX mindset. My experience in JavaScript, coupled with 2+ years of research experience, lends itself well to anticipating and solving complex problems. Outstanding critical thinking skills and resilience honed during my undergraduate studies at Princeton complement my software programming skill set.
 
 ## Education 
 
 **Flatiron School, NYC (2018 - 2019)**
+
 Full Stack Web Development Coding Bootcamp
 
 **Princeton University, Princeton, NJ (2012 - 2016)**
+
 Bachelors in Psychology, Certificate in Cognitive Sciences Questbridge Scholar and Ambassador
+
 *Competitive full scholarship for diverse, first generation college students*
 
 ## Skills 
 
 **Languages & Frameworks:** JavaScript, Ruby, Rails, React/ Redux, SQL, HTML, CSS
+
 **Tools & Libraries:** Git/ Github, Bootstrap, Web Scrapers, Visual Studio Code, Capital IQ, Research
 
 ## Employment
@@ -32,15 +37,16 @@ Bachelors in Psychology, Certificate in Cognitive Sciences Questbridge Scholar a
 
 ## Projects
 
-**Datapond** ; Heroku
+**Datapond**
 [Github](https://github.com/indykiss/datapond)
 [Heroku](https://datapond.herokuapp.com/)
+
 A platform for sharing news and market data to facilitate analytics.
 * Developed with Ruby on Rails MVC and JavaScript elements; AJAX and jQuery.
 * Implemented ActiveRecord, Object Relational Mapping, data validations.
 * Used Bcrypt for password security and Facebook Oauth for third-party authentication.
 
-**JetBlue for Good** Github
+**JetBlue for Good** 
 [Github](https://github.com/aellonk/hackittogether)
 * A hackathon prototype that allows users to browse voluntourism opportunities.
  
