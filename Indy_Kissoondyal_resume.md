@@ -1,4 +1,4 @@
-# Indy Kissoondyal 
+# Indira (Indy) Kissoondyal 
 ##### indirak@alumni.princeton.edu 
 ##### [indirak.com](https://indirak.com)
 ##### (323) 684-4435 
